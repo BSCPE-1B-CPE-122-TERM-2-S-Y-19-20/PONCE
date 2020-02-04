@@ -12,7 +12,7 @@ int main()
 		{
 		
 		cout<<"@@@@@@@@@@@@@@@@@@@@@@@@@\n";
-		cout<<"@          PROOFS       @"<<endl<<"@@@@@@@@@@@@@@@@@@@@@@@@@\n"<<"PLEASE TYPE 1 FOR TRUE AND 0 FOR FALSE"<<endl;
+		cout<<"@          PROOFS       @"<<endl<<"@@@@@@@@@@@@@@@@@@@@@@@@@\n"<<endl;
 		cout<<"Give a name for the object 1\n";
 		getline(cin,P);
 		cout<<"Give a name for the object 2\n";
